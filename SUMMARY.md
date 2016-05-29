@@ -6,4 +6,5 @@
 * [E as ações?](3-e_as_acoes.md)
 * [Ok, mas como chamamos estes métodos?](4-ok,_mas_como_chamamos_estes_metodos.md)
 * [E onde "guardamos" tudo isso?](5-e_onde_guardamos_tudo_isso.md)
+* Então...
 
