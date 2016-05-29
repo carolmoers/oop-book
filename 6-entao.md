@@ -1,2 +1,3 @@
 # Então...
 
+Para guradar bem: os objetos são instâncias de classes onde definimos os atributos e métodos deste objeto para podermos programar a interação dele.
