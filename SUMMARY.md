@@ -5,4 +5,5 @@
 * [O que são as características?](2-o_que_sao_as_caracteristicas.md)
 * [E as ações?](3-e_as_acoes.md)
 * [Ok, mas como chamamos estes métodos?](4-ok,_mas_como_chamamos_estes_metodos.md)
+* E onde "guardamos" tudo isso?
 
