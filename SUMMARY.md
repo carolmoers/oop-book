@@ -9,5 +9,5 @@
 * [Então...](6-entao.md)
 * [Pra finalizar!](7-pra_finalizar.md)
 * [Mais alguns conceitos](8-mais_alguns_conceitos.md)
-* Encapsulamento
+* [Encapsulamento](9-encapsulamento.md)
 
