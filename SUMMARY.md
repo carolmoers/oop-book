@@ -11,4 +11,5 @@
 * [Mais alguns conceitos](8-mais_alguns_conceitos.md)
 * [Encapsulamento](9-encapsulamento.md)
 * [Relacionamento entre classes](10-relacionamento_entre_classes.md)
+* Herança
 
